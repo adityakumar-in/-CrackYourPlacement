@@ -16,3 +16,6 @@
 - ## Game of Life
     https://leetcode.com/problems/game-of-life/description/ \
     ```In this i loop through the matrix and find all the live neighbours of each cell and update the cell according to the rules. [1 -> -1 if cell dies & 0 -> 2 if cell becomes live] and in the end update the cell values according to the rules.```
+
+- ## Missing Number
+    https://leetcode.com/problems/missing-number/description/ \
