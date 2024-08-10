@@ -1,4 +1,4 @@
-#DsaPractice
+#DsaLearning
 
 # Learning
 - ## Euclidean Algorithm
